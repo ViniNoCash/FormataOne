@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="FormataOne:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/FormataOne_jar</output-path>
-    <root id="archive" name="FormataOne.jar">
-      <element id="module-output" name="FormataOne" />
-    </root>
-  </artifact>
-</component>
