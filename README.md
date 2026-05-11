@@ -32,12 +32,10 @@ Este projeto é de uso pessoal e livre para estudo.
 
 ## 🖼️ Imagens
 
-**Tela inicial**
 <img width="1036" height="801" alt="1" src="https://github.com/user-attachments/assets/4f95df57-f8e9-477c-bf36-8637d223eec2" />
 
 <br>
 
-**CNPJ formatado**
 <img width="1019" height="850" alt="2" src="https://github.com/user-attachments/assets/621c0144-97f8-4358-8cad-6a7b917112f9" />
 
 <br>
