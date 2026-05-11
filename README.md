@@ -31,14 +31,21 @@ Baixe o arquivo `FormataOne-1.0.exe` e execute diretamente, sem precisar instala
 Este projeto é de uso pessoal e livre para estudo.
 
 ## 🖼️ Imagens
+
+**Tela inicial**
 <img width="1036" height="801" alt="1" src="https://github.com/user-attachments/assets/4f95df57-f8e9-477c-bf36-8637d223eec2" />
 
+<br>
 
+**CNPJ formatado**
 <img width="1019" height="850" alt="2" src="https://github.com/user-attachments/assets/621c0144-97f8-4358-8cad-6a7b917112f9" />
 
+<br>
 
+**Programa aberto**
 <img width="390" height="294" alt="3" src="https://github.com/user-attachments/assets/0e47b0a3-5594-467c-adc0-27ce9f60da0e" />
 
+<br>
 
+**Resultado copiado**
 <img width="380" height="290" alt="4" src="https://github.com/user-attachments/assets/d49c77ea-c9af-41ba-a791-c3a184747cef" />
-
