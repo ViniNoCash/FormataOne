@@ -12,6 +12,9 @@ Aplicação desktop em Java (Swing) para formatação de CPF e CNPJ, com interfa
 ### Opção 1 — Executável (mais fácil)
 Baixe o arquivo `FormataOne-1.0.exe` e execute diretamente, sem precisar instalar nada.
 
+Se preferir, segue link para download:
+https://drive.google.com/file/d/1dpy6_2cADOQpSXUeJFaEajoLPSAXALmX/view?usp=sharing
+
 ### Opção 2 — Pelo código fonte
 1. Clone o repositório:
 ```bash
