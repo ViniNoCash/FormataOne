@@ -17,7 +17,7 @@ Baixe o arquivo `FormataOne-1.0.exe` e execute diretamente, sem precisar instala
 ```bash
    git clone https://github.com/ViniNoCash/FormataOne.git
 ```
-2. Abra o projeto no IntelliJ IDEA
+2. Abra o projeto no IntelliJ IDEA (ou qualquer outro compilador JAVA da sua preferência)
 3. Execute o arquivo `FormatadorCash.java` localizado em `src/`
 
 ## 📋 Funcionalidades
