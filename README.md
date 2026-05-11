@@ -32,7 +32,7 @@ Este projeto é de uso pessoal e livre para estudo.
 
 ## ⬇️ Download 
 
-Segue link para download: <br>
+Segue link para download do executável: <br>
 https://drive.google.com/file/d/1dpy6_2cADOQpSXUeJFaEajoLPSAXALmX/view?usp=sharing
 
 ## 🖼️ Imagens
