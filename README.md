@@ -29,3 +29,5 @@ Baixe o arquivo `FormataOne-1.0.exe` e execute diretamente, sem precisar instala
 ## 📄 Licença
 
 Este projeto é de uso pessoal e livre para estudo.
+
+![Tela do programa] <img width="1036" height="801" alt="1" src="https://github.com/user-attachments/assets/4f95df57-f8e9-477c-bf36-8637d223eec2" />
