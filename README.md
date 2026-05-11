@@ -4,8 +4,7 @@ Aplicação desktop em Java (Swing) para formatação de CPF e CNPJ, com interfa
 
 ## 🚀 Tecnologias
 
-- Java
-- Swing (GUI)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ## ⚙️ Como rodar
 
